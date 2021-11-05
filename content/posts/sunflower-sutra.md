@@ -1,7 +1,7 @@
 ---
-date: 2019-08-08T22:42:09Z
+date: 2019-11-04T23:42:09Z
 title: Lorem Ipsum
-author: Allen Ginsberg
+author: Robert Thoreau
 hero_image: "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
 
 ---
