@@ -1,8 +1,8 @@
 ---
-date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
+date: 2019-08-08T22:42:09Z
+title: Lorem Ipsum
 author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero_image: "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
